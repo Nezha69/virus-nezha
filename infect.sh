@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# A tool by Nezha bot
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -32,11 +32,11 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Code nezha
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                      ⫸$ylo  NEZHA CODE$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -64,11 +64,11 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        code nezha
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                      ⫸$ylo  NEZHA CODE$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -207,12 +207,12 @@ echo -e '\e[91m
          ────▌──▐────
 '
 echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92mCODE NEZHA" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 6.0
 banner
