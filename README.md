@@ -39,7 +39,7 @@ made by nezha code
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/Nezha69/virus-nezha.git`
 * `cd $HOME`
 * `ls`
 * `cd infect`
