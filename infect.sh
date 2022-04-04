@@ -107,17 +107,17 @@ then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://bit.ly/3j4R2Ax > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://github.com/Nezha69 > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/nhwhatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://bit.ly/3KfmYOz > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
@@ -211,8 +211,8 @@ echo -e "\e[93m             IAM FROM \e[92mKURDISTAN" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
-echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[\e[0m" | pv -qL 10
+echo -e "\e[93m              JOIN GROUPS ON TELEGRAM \e[92mCODE NEZHA" | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[\e[0mhhh i haven't yet" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 6.0
 banner
