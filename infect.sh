@@ -35,7 +35,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         Code nezha
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
+echo -e "$red                       ▶Coded by$grn AYAD$red◀$rset"
 echo -e "$red                      ⫸$ylo  NEZHA CODE$red ⫷$rset"
 echo 
 # Functions
@@ -67,7 +67,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         code nezha
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
+echo -e "$red                       ▶Coded by$grn AYAD$red◀$rset"
 echo -e "$red                      ⫸$ylo  NEZHA CODE$red ⫷$rset"
 echo 
 # Functions
@@ -206,8 +206,8 @@ echo -e '\e[91m
          ─▐─█────█─▌─
          ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mCODE NEZHA" | pv -qL 10
+echo -e "\e[93m                  CALL ME \e[92mNEZHA" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92mKURDISTAN" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
@@ -262,8 +262,8 @@ fi
 pop(){
 clear
 echo -e "\e[96m                ╔═══════════════════════════════════╗\e[0m"
-echo -e "\e[96m                ║  \e[93mHAI, I JUST UPLOADED NEW\e[96m VIDEO   ║\e[0m"
-echo -e "\e[96m                ║      WATCH NEW VIDEO NOW.....!    ║\e[0m"
+echo -e "\e[96m                ║  \e[93mHAI, I JUST UPLOADED NEW\e[96m CODE   ║\e[0m"
+echo -e "\e[96m                ║      WATCH NEW CODE NOW.....!    ║\e[0m"
 echo -e "\e[96m                ║                                   ║\e[0m"
 echo -e "\e[96m                ║        Select \e[92my\e[96m to watch\e[96m          ║\e[0m"
 echo -e "\e[96m                ║                (\e[93mOR\e[96m)               \e[96m║\e[0m"
@@ -275,7 +275,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://github.com/Nezha69 2>/dev/null
 clear
 baner1
 menu
